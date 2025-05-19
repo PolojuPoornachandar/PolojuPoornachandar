@@ -53,11 +53,11 @@ _Jan 2021 – Dec 2022_
 
 ---
 
-## 📈 LET'S CONNECT:
-
-📧 **Email:** poorna.poloju@gmail.com  
-💼 **LinkedIn:** Poornachandar-Poloju  
-🖥️ **GitHub:** PolojuPoornachandar  
+📈 Let's Connect:  
+📧 Email: poorna.poloju@gmail.com  
+💼 LinkedIn: [poornachandar-poloju](https://www.linkedin.com/in/poornachandar-poloju)  
+🖥️ GitHub: [PolojuPoornachandar](https://github.com/PolojuPoornachandar)
+ 
 
 ---
 
