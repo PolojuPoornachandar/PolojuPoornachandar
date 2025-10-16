@@ -28,20 +28,6 @@ AWS (Redshift, S3, Glue, Athena, EMR, Lambda, IAM, CloudWatch, QuickSight), Azur
 
 ---
 
-## 💼 WORK EXPERIENCE:
-
-**DATA ENGINEER | NEW YORK LIFE INSURANCE, REMOTE, USA**  
-_Feb 2024 – Present_  
-- Led migration of **15+TB** data to AWS Redshift, improving query speed by **45%**.  
-- Developed ETL pipelines processing **1.2M+ daily records**, boosting data reliability.  
-- Enhanced SQL query efficiency and accelerated batch processing with **Spark on EMR**.  
-
-**ASSOCIATE DATA ENGINEER | NOVARTIS INDIA, HYDERABAD**  
-_Jan 2021 – Dec 2022_  
-- Built **Spark pipelines** for clinical trial data, ensuring **98%+ data quality**.  
-- Integrated multi-source data with **Azure Data Factory** and maintained near-perfect system uptime.  
-
----
 
 ## 🌍 EXPERTISE ACROSS TOOLS & PLATFORMS:
 
